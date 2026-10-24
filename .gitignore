@@ -1,0 +1,15 @@
+# Programa compilado
+*.exe
+*.o
+*.out
+sistema_cobros
+
+# Datos que el programa genera al ejecutarse
+cajeros.txt
+inventario.txt
+clientes.txt
+ventas.txt
+devoluciones.txt
+informe_danados.txt
+factura_*.txt
+arqueo_*.txt
